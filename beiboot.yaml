@@ -1,0 +1,6 @@
+apiVersion: getdeck.dev/v1
+kind: beiboot
+metadata:
+  name: silly-demo
+  namespace: getdeck
+provider: k3s
